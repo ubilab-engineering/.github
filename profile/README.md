@@ -5,6 +5,8 @@ We're building purely functional software that's transforming the lives of biolo
 Our cutting-edge, user-friendly solutions empower them to work smarter, faster, and more efficiently, truly revolutionizing the way they tackle their daily challenges. 
 
 Welcome to the future of lab innovation!
+
+![image ubilab]([http://url/to/img.png](https://cdn.animaapp.com/projects/5c0fc390a9e5f40009477c2e/releases/60b7759913db10c5ad840a4e/img/index-logoubilab-7D8A8BA2-CB53-4CE9-82FB-29B9B15F5905@2x.png))
 <!--
 
 **Here are some ideas to get you started:**
