@@ -1,4 +1,4 @@
-## We are Ubilab 👋
+## We are Inlog-Engineering 👋
   
 We're building purely functional software that's transforming the lives of biologists in medical analysis labs. 
 
